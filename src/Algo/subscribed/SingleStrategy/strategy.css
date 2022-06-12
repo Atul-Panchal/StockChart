@@ -1,0 +1,8 @@
+.unsubscribe-button:hover {
+  color: white !important;
+  background-color: #d32f2f !important;
+}
+
+.singlestrategy {
+  position: relative;
+}

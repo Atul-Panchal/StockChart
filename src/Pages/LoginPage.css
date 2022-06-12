@@ -1,0 +1,15 @@
+.login-card {
+  transition: transform 0.2s;
+}
+
+.login-card:hover {
+  transform: scale(1.1);
+}
+
+.forget-password:hover {
+  text-decoration: none;
+}
+.loginimage {
+  width: 550px;
+  height: 550px;
+}

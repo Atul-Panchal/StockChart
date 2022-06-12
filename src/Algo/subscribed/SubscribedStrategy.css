@@ -1,0 +1,29 @@
+.mycard {
+  overflow: hidden;
+  border-radius: 6px;
+  box-shadow: 0 1px 20px 0 rgb(17 30 79 / 10%);
+  background-color: #fff;
+}
+.my-card-body {
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+.my-card-stats {
+  position: relative;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.my-card-buttons {
+  flex: 0 0 75%;
+  max-width: 75%;
+}
+
+.footer-buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+}
